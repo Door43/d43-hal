@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[hal:home|Door43 (hal)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-hal|d43-hal repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-hal/archive/master.zip|d43-hal.zip]]
+
+**Recent Changes**
+{{changes>ns = hal}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/hal|Ethnologue data]]
+
